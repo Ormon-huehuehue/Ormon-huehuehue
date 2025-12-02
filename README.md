@@ -10,5 +10,6 @@ Hi, I'm Armaan.
 
 Rusting away
 
-Currently working on : ![Stealatos - Stealth transactions on Solana](https://stealhonsol.vercel.app/)
+Currently working on : [![Stealatos - Stealth transactions on Solana](https://stealhonsol.vercel.app/)](https://stealhonsol.vercel.app/)
+
 
